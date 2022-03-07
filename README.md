@@ -14,5 +14,3 @@ Pour afficher la tension mesurée, nous utiliserons un écran à cristaux liquid
 ```bash
 git clone https://github.com/AloneDay-91/Voltmetre-numrique-Arduino
 ```
-## Utilisation
-Tout d'abord, télécharger le programme ci-dessus. Ensuite, modifier le lien pour mettre le lien que vous voulez. Vous pouvez aussi changer les paramètres du QRCode image.
