@@ -7,12 +7,12 @@
   <a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/></a>
 </p>
 
-C'est un projet qui consiste à créer un QRCode avec tout type de liens, d'images, de site et de vidéo. 
-Vous retrouverez ci-dessus les différents fichiers pour faire fonctionner le programme.
+C'est un projet qui consiste à mesurer les tensions.
+Pour afficher la tension mesurée, nous utiliserons un écran à cristaux liquides (LCD) comportant deux lignes de 16 caractères.
 
 ## Installation
 ```bash
-git clone https://github.com/AloneDay-91/Project-QR-Code-Python
+git clone https://github.com/AloneDay-91/Voltmetre-numrique-Arduino
 ```
 ## Utilisation
 Tout d'abord, télécharger le programme ci-dessus. Ensuite, modifier le lien pour mettre le lien que vous voulez. Vous pouvez aussi changer les paramètres du QRCode image.
